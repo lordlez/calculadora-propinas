@@ -1,8 +1,16 @@
 # Calculadora Propinas
 
-Link: https://calculadora-propinas-lordlez.netlify.app/
+Link directto: https://calculadora-propinas-lordlez.netlify.app/
 
-* Tecnologías usadas:
-  - React
-  - Vite
-  - Tailwinds
+# 📝 Objetivo del proyecto
+Implementar un sitio que calcule un sistema de pedidos de comida, asignacion de precios, carritos de compra, propinas, etc.
+
+# :hammer_and_wrench: Tecnologías utilizadas
+Para el desarrollo de este proyecto se utilizó:
+
+• React
+
+• Tailwind CSS
+
+• Vite
+
